@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "665238247831",
+    "firebase_url": "https://token-2092c.firebaseio.com",
+    "project_id": "token-2092c",
+    "storage_bucket": "token-2092c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665238247831:android:ac1fa7b9223f8f7e",
+        "android_client_info": {
+          "package_name": "com.example.miguel.notificacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665238247831-kaps0q91oiktc5a91aihc83am2beh4bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk9drPjL5spv4YygPmxJlYnWNp1k_DVr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
